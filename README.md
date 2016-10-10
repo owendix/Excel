@@ -1,4 +1,10 @@
-# Excel-forgotten-lock-combination
+# Excel
+teaching Gradebook Template:
+This is the  template I use for maintaining student grades, including the key formulas.
+It contains values and one macro for demonstration purposes, though is scrubbed of 
+personal information.
+
+wordCombinations:
 A friend forgot his lock combination, a 4-letter word, each letter with 10 possible values.
 He was sure it was a valid word, but a rare one, not in their online list.
 
